@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
+		"terminal.integrated.fontSize": 12,
 		"go.useLanguageServer": true,
 		"go.languageServerExperimentalFeatures": {
 			"format": true,
