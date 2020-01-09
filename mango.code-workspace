@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"terminal.integrated.fontSize": 12,
-		"go.useLanguageServer": true,
+		"go.useLanguageServer": false,
 		"go.languageServerExperimentalFeatures": {
 			"format": true,
 			"diagnostics": true,
@@ -14,7 +14,7 @@
 		},
 		"go.formatTool": "goimports",
 		"go.autocompleteUnimportedPackages": true,
-		"go.docsTool": "gogetdoc",
+		"go.docsTool": "godoc",
 		"go.enableCodeLens": {
 			"references": true,
 			"runtest": true
