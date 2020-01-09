@@ -11,7 +11,10 @@
             "mode": "auto",
             "program": "${fileDirname}",
             "env": {},
-            "args": [],
+            "args": [
+                "localhost:9092",
+                "test-topic-1"
+            ],
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
